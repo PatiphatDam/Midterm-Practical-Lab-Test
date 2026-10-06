@@ -1,0 +1,14 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "midterm-exam-lab-test",
+	"main": "src/index.ts",
+	"compatibility_date": "2026-10-06",
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "booking-db",
+			"database_id": "8618f6c6-aada-417c-9ed2-70c5bd5e22a9",
+			"remote": true
+		}
+	]
+}
